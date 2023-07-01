@@ -12,11 +12,11 @@ You have to install Arduino IDE 1.6.10 or later. Links are listed below.
 * [ESP8266 Core for Arduino IDE](https://github.com/esp8266/Arduino) - ESP8266 Core
 * [MFRC522 Library](https://github.com/miguelbalboa/rfid) - MFRC522 RFID Library
 
-###Arduino IDE Settings
-*Version: 1.8.19
-*Board: NodeMDU 1.0 (ESP12-E Module)
-*Upload Speed: 115200
-*Port: /ty0/USB0
+### Arduino IDE Settings
+* Version: 1.8.19
+* Board: NodeMDU 1.0 (ESP12-E Module)
+* Upload Speed: 115200
+* Port: /ty0/USB0
 
 ## Simple Example
 
