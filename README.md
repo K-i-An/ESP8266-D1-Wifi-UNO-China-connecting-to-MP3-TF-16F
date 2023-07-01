@@ -23,7 +23,7 @@ You have to install Arduino IDE 1.6.10 or later. Links are listed below.
 ### Wiring RFID RC522 module
 The following table shows the typical pin layout used:
 
-| Signal        | MFRC522       |Wemos D1 Wifi Uno | Generic      |
-|---------------|:-------------:|:----------------:|:------------:|
-| TX0           | TX            | D11 [1]          | GPIO-13 [1]  |
-| RX1           | RX            | D10 [1]          | GPIO-15 [2]  |
+| Signal        | MFRC522       |ESP8266 D1 Wifi Uno | Generic      |
+|---------------|:-------------:|:------------------:|:------------:|
+| TX0           | TX            | D11 [1]            | GPIO-13 [1]  |
+| RX1           | RX            | D10 [1]            | GPIO-15 [2]  |
